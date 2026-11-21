@@ -13,4 +13,6 @@ A Processing Java game demonstrating object-oriented programming concepts, inher
 
 ## Future Improvements
 - Fix time initialization
-- Create more interaction beyond catching game 
+- Create more interaction beyond catching game
+- Add Inheritance between child and parent classes
+- Create an interface for the parent classes
